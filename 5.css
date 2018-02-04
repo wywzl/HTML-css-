@@ -1,0 +1,28 @@
+body{
+	font-family:sans-serif;
+	text-align:center;
+	background-color:#444;
+
+}
+div{
+	margin-top:30px;
+}
+ul{
+	display:inline;
+	background-color:888;
+	padding:30px;
+}
+li{
+	display:inline;
+	text-align:left;
+
+}
+a{
+	font-size:50px;
+	color:#fff;
+	text-decoration:none;
+	padding:3px 5px;
+}
+a:hover{
+	color:yellow;
+}
